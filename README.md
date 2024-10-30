@@ -7,10 +7,10 @@ Project Goals
 
 The primary objective of this project is to:
 
-Review and synthesize current research on blood sugar regulation and identify effective dietary and lifestyle strategies.
+1. Review and synthesize current research on blood sugar regulation and identify effective dietary and lifestyle strategies.
 
 
-Develop tools, guides, and recommendations that help individuals manage blood sugar levels.
+2. Develop tools, guides, and recommendations that help individuals manage blood sugar levels.
 
 
-Build a shared, open-source knowledge base that can support wellness brands and researchers in creating products and services focused on blood sugar health.
+3. Build a shared, open-source knowledge base that can support wellness brands and researchers in creating products and services focused on blood sugar health.
